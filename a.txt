@@ -1,2 +1,6 @@
 this is file A.
+<<<<<<< .merge_file_sivKUT
 edited by  branch testA
+=======
+Edited by branch testB
+>>>>>>> .merge_file_6x7283

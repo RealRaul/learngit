@@ -1,2 +1,3 @@
 this is file B.
 Edited by branch testA
+Edited by branch testB
